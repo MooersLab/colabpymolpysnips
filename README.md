@@ -4,7 +4,7 @@
 
 ### version 0.2
 
-#### For the notebook that uses the open source version of PyMOL, [see](https://github.com/MooersLab/colabOpenSourcePyMOLpySnips).
+#### For the notebook that uses the Open Source version of PyMOL, [see](https://github.com/MooersLab/colabOpenSourcePyMOLpySnips).
 
 Click on Colab bage to open notebook on Colab:
 [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Mooerslab/colabpymolpysnips/blob/master/colabpymolpysnips02.ipynb)
