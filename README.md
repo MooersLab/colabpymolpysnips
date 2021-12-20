@@ -1,6 +1,6 @@
 # colabpymolpysnips: 
 
-## Library of PyMOL Python snippets for running PyMOL in Google Colab notebooks
+## Library of PyMOL Python snippets for running Incentive PyMOL in Google Colab notebooks
 
 ### version 0.2
 
