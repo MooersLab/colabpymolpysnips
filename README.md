@@ -6,20 +6,20 @@
 
 #### For the notebook that uses the Open Source version of PyMOL, [see](https://github.com/MooersLab/colabOpenSourcePyMOLpySnips).
 
-Click on Colab bage to open notebook on Colab:
+Click on Colab badge to the right to open a notebook on Colab:
 [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Mooerslab/colabpymolpysnips/blob/master/colabIncentivePyMOLpySnip03.ipynb)
 
 
 See the first cell in the notebook for install instructions.
 
 The `installPyMOL` snippet will install PyMOL in one click of a button.
-The install process takes 5-8 minutes so be patient.
-A progress bar monitors the progress of the installation. 
+The install process takes 5-10 minutes. so be patient.
+A progress bar monitors the installation. 
 
 Pre-repuisite: a Google Drive account.
 
 
-### Step 1: Click on the above colab link
+### Step 1: Click on the above Colab link
 This action will open the snippet notebook on Colab.
 The top of the screen should look like the following:
 
@@ -28,18 +28,18 @@ The top of the screen should look like the following:
 
 ### Step 2: Copy the snippet notebook to Google Drive
 
-Use the `File/Save copy in Drive` pulldown menu item. 
+Use the `File/Save copy in Drive' pulldown menu item. 
 If you ran some code cells, you may get a message like the following:
 
 <p align="center"><img src="images/saveSnippetNotebookToGoogleDrive.png"></p>
 
-Ignore this warning. Cleck on `run anyway`i
+Ignore this warning. Click on `run anyway`i
 <p align="center"><img src="images/ignoreWarningAboutAuthorship.png"></p>
 
 
 ### Step 3: Paste the URL of the snippet notebook into the settings
 
-Paste the URL onto the line `Custom snippet notebook URL`:
+Paste the URL into the line `Custom snippet notebook URL`:
 
 <p align="center"><img src="images/loadedNotebookSettings.png"></p>
 
@@ -54,10 +54,9 @@ Paste the URL onto the line `Custom snippet notebook URL`:
 <p align="center"><img src="images/searchInstallPyMOL.png"></p>
 
 
-### Step 6: Insert the installPyMOL snippet into the new notebook and Run
+### Step 6: Insert the installPyMOL snippet into the new notebook and run
 
 <p align="center"><img src="images/installIncentivePyMOL.png"></p>
-
 
 This takes 5-10 mintues. Ignore this warning:
 
