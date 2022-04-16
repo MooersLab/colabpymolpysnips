@@ -16,7 +16,7 @@ The `installPyMOL` snippet will install PyMOL in one click of a button.
 The install process takes 5-10 minutes. so be patient.
 A progress bar monitors the installation. 
 
-Pre-repuisite: a Google Drive account.
+Pre-requisite: a Google Drive account.
 
 
 ### Step 1: Click on the above Colab link
