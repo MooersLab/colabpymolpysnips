@@ -10,13 +10,14 @@ Click on Colab badge to the right to open a notebook on Colab:
 [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Mooerslab/colabpymolpysnips/blob/master/colabIncentivePyMOLpySnip03.ipynb)
 
 
-See the first cell in the notebook for install instructions.
+See the first cell in the notebook for the installation instructions.
 
 The `installPyMOL` snippet will install PyMOL in one click of a button.
-The install process takes 5-10 minutes. so be patient.
+The install process takes 5-10 minutes, so be patient.
 A progress bar monitors the installation. 
 
-Pre-requisite: a Google Drive account.
+Pre-requisites: you need a Google Drive with some unused disk space. 
+Google drive access comes with each gmail account.
 
 
 ### Step 1: Click on the above Colab link
@@ -49,7 +50,7 @@ Paste the URL into the line `Custom snippet notebook URL`:
 <p align="center"><img src="images/openNewNotebook.png"></p>
 
 
-### Step 5: Seach for the installPyMOL snippet
+### Step 5: Search for the installPyMOL snippet
 
 <p align="center"><img src="images/searchInstallPyMOL.png"></p>
 
@@ -58,12 +59,13 @@ Paste the URL into the line `Custom snippet notebook URL`:
 
 <p align="center"><img src="images/installIncentivePyMOL.png"></p>
 
-This takes 5-10 mintues. Ignore this warning:
+This takes 5-10 mintues. 
+Ignore this warning:
 
 <p align="center"><img src="images/ignoreThisError.png"></p>
 
 
-### Step 8: Insert the testPyMOL snippet and run
+### Step 7: Insert the testPyMOL snippet and run
 
 <p align="center"><img src="images/testPyMOL.png"></p>
 
@@ -72,4 +74,4 @@ The result should be the following image:
 <p align="center"><img src="images/testResult.png"></p>
 
 
-### Step 9: Save finished notebook to Google Drive or download the Colab notebook
+### Step 8: Save the finished Colab notebook to Google Drive or download it to your computer.
