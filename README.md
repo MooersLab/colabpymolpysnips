@@ -1,4 +1,4 @@
-![Version](https://img.shields.io/static/v1?label=colabpymolpysnips&message=0.2&color=brightcolor)
+![Version](https://img.shields.io/static/v1?label=colabpymolpysnips&message=0.3&color=brightcolor)
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 
 
@@ -98,7 +98,7 @@ The result should be the following image:
 
 |Version      | Changes                                                                                                                                    | Date                 |
 |:-----------:|:------------------------------------------------------------------------------------------------------------------------------------------:|:--------------------:|
-| Version 0.2 |  Added badges, funding, and update table                                                                                                   | 2024 May 8           |
+| Version 0.3 |  Added badges, funding, and update table                                                                                                   | 2024 May 8           |
 
 ## Funding
 - NIH: R01 CA242845, R01 AI088011
