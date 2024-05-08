@@ -1,3 +1,7 @@
+![Version](https://img.shields.io/static/v1?label=colabpymolpysnips&message=0.1&color=brightcolor)
+[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
+
+
 # colabpymolpysnips: 
 
 ## Library of PyMOL Python snippets for running Incentive PyMOL in Google Colab notebooks
@@ -13,11 +17,11 @@ Click on Colab badge to the right to open a notebook on Colab:
 See the first cell in the notebook for the installation instructions.
 
 The `installPyMOL` snippet will install PyMOL in one click of a button.
-The install process takes 3-10 minutes, so be patient.
+The installation process takes 3-10 minutes, so be patient.
 A progress bar monitors the installation. 
 
 Pre-requisites: you need a Google Drive with some unused disk space. 
-Google drive access comes with each gmail account.
+Google Drive access comes with each Gmail account.
 
 
 ### Step 1: Click on the above Colab link
@@ -30,11 +34,11 @@ The top of the screen should look like the following:
 ### Step 2: Copy the snippet notebook to Google Drive
 
 Use the `File/Save copy in Drive' pulldown menu item. 
-If you ran some code cells, you may get a message like the following:
+If you run some code cells, you may get a message like the following:
 
 <p align="center"><img src="images/saveSnippetNotebookToGoogleDrive.png"></p>
 
-Ignore this warning. Click on `run anyway`i
+Ignore this warning. Click on `run anyway`.
 <p align="center"><img src="images/ignoreWarningAboutAuthorship.png"></p>
 
 
@@ -59,7 +63,7 @@ Paste the URL into the line `Custom snippet notebook URL`:
 
 <p align="center"><img src="images/installIncentivePyMOL.png"></p>
 
-This takes 5-10 mintues. 
+This takes 5-10 minutes. 
 Ignore this warning:
 
 <p align="center"><img src="images/ignoreThisError.png"></p>
